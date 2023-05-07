@@ -70,7 +70,7 @@ export const UsersForm = ({
             />
           </p>
           <input
-            type="text"
+            type="password"
             placeholder="password"
             id="password"
             {...register("password")}
